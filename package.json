@@ -1,6 +1,6 @@
 {
   "name": "ts-angular-treeview",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tesar S.p.A. AngularJs tree view",
   "main": "angular.treeview.js",
   "repository": "https://github.com/gabrielecaravati/angular.treeview",
